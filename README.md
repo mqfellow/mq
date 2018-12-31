@@ -29,4 +29,24 @@ DataPath:    /var/mqm
 MaxCmdLevel: 900
 LicenseType: Developer
 
+$ docker run -it mqfellow/mq:latest runmqakm -version
+GSKCAPICMD
+==========
+@(#)CompanyName:      IBM Corporation
+@(#)LegalTrademarks:  IBM
+@(#)FileDescription:  IBM Global Security Toolkit
+@(#)FileVersion:      8.0.50.65
+@(#)InternalName:     gskcapicmd
+@(#)LegalCopyright:   Licensed Materials - Property of IBM GSKit 
+                      (C) Copyright IBM Corp.1995, 2016 
+                      All Rights Reserved. US Government Users 
+                      Restricted Rights - Use, duplication or disclosure
+                      restricted by GSA ADP Schedule Contract with IBM Corp.
+@(#)OriginalFilename: gsk8capicmd_64
+@(#)ProductName:      gsk8j (GoldCoast Build) 160426
+@(#)ProductVersion:   8.0.50.65
+@(#)ProductInfo:      16/04/19.21:51:23.16/04/26.12:12:11
+@(#)CMVCInfo:         gsk8j_160219/gsk8j_doc gsk8j_160226/gsk8j_ikm gsk8j_160422/gsk8j_cms gsk8j_160426/gsk8j_support gsk8j_160223/gsk8j_pkg gsk8j_160422/gsk8j_ssl gsk8j_160413/gsk8j_acme
+
+
 ```
